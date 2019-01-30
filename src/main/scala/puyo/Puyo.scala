@@ -1,0 +1,5 @@
+package puyo
+
+class Puyo {
+  
+}

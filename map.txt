@@ -1,0 +1,43 @@
+4
+Upstairs Living Room
+You're in a room where people watch movies and do little else. There's a three-decade old couch to sit on if you're really desperate, but it's dusty and probably has some kind of bugs living in it. Would not recommend.
+3
+Bananagrams
+A little-known word game with 200 Scrabble-esque tiles kept in a banana-shaped pouch
+A DVD of Deadpool
+One of the greatest films of the modern era starring Ryan Reynolds.
+Boston Legal Complete Collection
+A box set containing all five seasons of Boston Legal
+1,-1,2,-1,-1,3
+Chet's Room
+This is by far the most beautiful room to have ever existed. Everything is in its place. There's nothing on the floor because whoever lives here keeps it clean. All the furniture is arranged such that space isn't being wasted. It's glorious.
+2
+Lucille
+Whoever lives here likes to name things that are of great importance to him. Lucille the PC is a good example. She's sleeping right now. Don't bother her or whoever lives here will get very angry.
+Mandolin
+A small guitar-like instrument. It has eight strings and sounds like a banjo but with less character. It's a well known fact among musicians that touching a mandolin instantly makes you 30% less cool.
+-1,0,-1,-1,-1,-1
+Chet's Sister's Room
+You find yourself short of breath. The air here is thick with ungodly scents. At least four different scented candles are burning at the same time. It's unclear what each individual smell is. By looking down, you discover that it's actually impossible to move in this room because the entire floor is covered with random objects. There might be undiscovered animals living in here or long-lost treasure, but it's impossible to tell due to the mess.
+8
+Crawfish Chew Toy
+Dogs have not lived here in over a decade, so it's unclear what purpose it serves in this environment.
+Chet's Jacket
+'It's more comfortable than mine!' is not a defense that will hold up in court.
+A Singular Ear Ring
+There's a good chance you'll find the other one in the bottom of your foot if you're not careful.
+Jazz Vinyl
+A great record from the early days of jazz. The only problem is that there doesn't seem to be any device with which to play it.
+Sketchbook
+Every page contains approximately half of a really detailed drawing of a movie character. The artist appears to get distracted easily.
+Bottled Water
+It seems that someone opened this bottle, took one sip, and then forgot about it.
+Suspicious Purple Slime
+Wouldn't recommend touching that. It has a faint radioactive glow and may have just growled. A Hazmat team is probably necessary.
+Loon Figurine
+The loon is the state bird of Minnesota. A standard home decoration for any Minnesotan home. Unfortunately, this home is in Texas.
+-1,-1,-1,0,-1,-1
+Downstairs
+It's so dark down here. Why did you decide to go downstairs? There are monsters here who will try and make you do chores if they catch you standing around idly. Retreat back to safety while you still can!
+0
+-1,-1,-1,-1,0,-1
